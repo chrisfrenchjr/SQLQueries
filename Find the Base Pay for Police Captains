@@ -3,3 +3,5 @@ where jobtitle LIKE 'Captain%'
 
 -- After reviewing the dataset, I wanted to create a view where I would only have the police captains of the San Francisco Police Department.
 -- Since we had to find the base pay for each captain, I selected 'basepay' and used LIKE to only find the Captains. 
+
+Link: https://platform.stratascratch.com/coding/9972-find-the-base-pay-for-police-captains?code_type=3
